@@ -1,0 +1,57 @@
+From pieter at yellowduck.be  Wed Feb  8 09:23:25 2006
+From: pieter at yellowduck.be (Pieter Claerhout)
+Date: Wed, 8 Feb 2006 09:23:25 +0100
+Subject: [ydf-announce] SVN commit emails
+Message-ID: <4aef63030602080023w6811ffbajf50b560e8ba5053c@mail.gmail.com>
+
+Hi all,
+
+if you want to keep up with what is being committed to the YDFramework SVN
+repository, you can now subscribe to the following email list:
+
+http://lists.berlios.de/mailman/listinfo/ydframework-devel
+
+With every commit, you will get an email with the full details.
+
+Regards,
+
+
+pieter
+
+--
+pieter claerhout . pieter at yellowduck.be . http://www.yellowduck.be/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/ydframework-announce/attachments/20060208/bae40734/attachment.html>
+
+From pieter at yellowduck.be  Sun Feb 12 16:14:58 2006
+From: pieter at yellowduck.be (Pieter Claerhout)
+Date: Sun, 12 Feb 2006 16:14:58 +0100
+Subject: [ydf-announce] Yellow Duck Framework 2.0 final released
+Message-ID: <4aef63030602120714m4ee3d49fpfd89942bdc6739f@mail.gmail.com>
+
+YELLOW DUCK FRAMEWORK 2.0 FINAL RELEASED
+
+After a long time since the last release candidate, the Yellow Duck
+Framework team is happy to announce the availability of version 2.0 final.
+We've been through a long time adding new features and fixing loads of small
+bugs.
+
+The files are unfortunately not released on berlios.de but can be downloaded
+from:
+http://ydframework.berlios.de/download/
+
+The files will also appear in the list of releases on berlios.de as soon as
+the system allows me to ;-)
+
+Regards;
+
+
+pieter
+
+--
+pieter claerhout . pieter at yellowduck.be . http://www.yellowduck.be/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/ydframework-announce/attachments/20060212/f14f1df0/attachment.html>
+

@@ -1,0 +1,25 @@
+From pieter at yellowduck.be  Tue Jan 16 14:29:32 2007
+From: pieter at yellowduck.be (Pieter Claerhout)
+Date: Tue, 16 Jan 2007 14:29:32 +0100
+Subject: [ydf-announce] Yellow Duck Framework 2.1 released
+Message-ID: <4aef63030701160529w77439ecj5743a8bf363f57f4@mail.gmail.com>
+
+Hi all,
+
+after a long period of time, I decided to release Yellow Duck Framework and
+Yellow Duck Weblog version 2.1 final.
+
+Downloads are on:
+http://developer.berlios.de/project/showfiles.php?group_id=3988
+
+Cheers,
+
+
+pieter
+
+-- 
+pieter claerhout . pieter at yellowduck.be . http://www.yellowduck.be/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/ydframework-announce/attachments/20070116/929c4e5f/attachment.html>
+
